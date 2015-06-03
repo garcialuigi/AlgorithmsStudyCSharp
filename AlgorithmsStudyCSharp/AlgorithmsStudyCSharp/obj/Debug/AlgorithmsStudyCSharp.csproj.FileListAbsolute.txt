@@ -1,0 +1,6 @@
+C:\Users\Imortal\Documents\Projects\AlgorithmsStudyCSharp\AlgorithmsStudyCSharp\bin\Debug\AlgorithmsStudyCSharp.exe.config
+C:\Users\Imortal\Documents\Projects\AlgorithmsStudyCSharp\AlgorithmsStudyCSharp\obj\Debug\AlgorithmsStudyCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Imortal\Documents\Projects\AlgorithmsStudyCSharp\AlgorithmsStudyCSharp\bin\Debug\AlgorithmsStudyCSharp.exe
+C:\Users\Imortal\Documents\Projects\AlgorithmsStudyCSharp\AlgorithmsStudyCSharp\bin\Debug\AlgorithmsStudyCSharp.pdb
+C:\Users\Imortal\Documents\Projects\AlgorithmsStudyCSharp\AlgorithmsStudyCSharp\obj\Debug\AlgorithmsStudyCSharp.exe
+C:\Users\Imortal\Documents\Projects\AlgorithmsStudyCSharp\AlgorithmsStudyCSharp\obj\Debug\AlgorithmsStudyCSharp.pdb
